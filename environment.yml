@@ -1,4 +1,4 @@
-name: .grupo-00-venv
+name: .grupo-01-venv
 channels:
   - conda-forge
 dependencies:
@@ -13,3 +13,5 @@ dependencies:
   - keras
   - tensorflow
   - pip
+  - pyodbc
+  - seaborn
